@@ -24,7 +24,7 @@ Outil principal : Power BI Desktop
 
 
 <img src="images/Capture d'écran 2026-03-02 144931.png" width="500px"><img src="images/Capture d'écran 2026-03-02 144939.png" width="500px">
-<img src="images/Capture d'écran 2026-03-02 144946.png" width="500px"><img src="images/Capture d'écran 2026-03-02 145000.png" width="500px">
+<img src="images/Capture d'écran 2026-03-02 144946.png" width="450px"><img src="images/Capture d'écran 2026-03-02 145000.png" width="450px">
 
 ---
 *Ce projet fait partie de la formation Data Analyst d'OpenClassrooms.*
